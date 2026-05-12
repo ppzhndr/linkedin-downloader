@@ -1,4 +1,4 @@
-# LinkedIn Post Downloader
+# LinkedIn Post Downloader (Full Claude Vibecode)
 
 Speichert Text, Bilder und Videos aus LinkedIn-Posts als übersichtliche HTML-Datei.
 
